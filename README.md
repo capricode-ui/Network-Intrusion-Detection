@@ -7,6 +7,9 @@ This project implements an AI-based Network Intrusion Detection System (NIDS) us
 ![Alt text](Block_Diagram.png)
 
 
+[View image on Google Drive](https://drive.google.com/file/d/1UraZi6oIYPj6upbxKNjmxuZvbVW-6rg3/view?usp=sharing)
+
+
 ## Table of Contents
 - [Project Overview](#project-overview)
 - [Dataset](#dataset)
