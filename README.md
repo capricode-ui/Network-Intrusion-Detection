@@ -4,6 +4,7 @@
 This project implements an AI-based Network Intrusion Detection System (NIDS) using deep learning models trained on the CICIDS2017 dataset. It combines Exploratory Data Analysis (EDA), advanced preprocessing techniques, and a hybrid CNN-BiLSTM model with attention to detect various types of cyberattacks such as DDoS, DoS, Brute Force, Port Scanning, Bots, and Web Attacks.
 
 
+
 ![Alt text](Block_Diagram.png)
 
 
