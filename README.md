@@ -29,7 +29,7 @@ Traditional NIDS rely on static, signature-based detection techniques which are 
 The proposed system:
 - Performs EDA to understand traffic patterns.
 - Uses undersampling, SMOTE, and class weighting to address class imbalance.
-- Implements a hybrid CNN + BiLSTM model with attention for classification.
+- Implements a hybrid CNN + BiLSTM model with attention deep learning model for classification.
 - Evaluates models using metrics like accuracy, precision, recall, F1-score, ROC, and PR curves.
 
 ## Dataset
